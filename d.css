@@ -20,7 +20,7 @@
   --hover-color: #257842; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
-  --url-color: #2266d4; /*The color of url links [default: var(--main-color)]*/
+  --url-color: #1a71db; /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
   --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
@@ -34,8 +34,8 @@
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
   --text-normal: rgb(220, 221, 222); /* color of default discord text */
   --text-muted: rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
-  --channels-width: 220px; /* channel list width (240px for Discord default) [default: 220px] */
-  --members-width: 240px; /* member list width [default: 240px] */
+  --channels-width: 200px; /* channel list width (240px for Discord default) [default: 220px] */
+  --members-width: 220px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
