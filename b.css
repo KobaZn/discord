@@ -15,7 +15,7 @@
 :root {
 	--app-bg: url(https://cdn.wallpapersafari.com/14/29/8HaGN7.jpg);
 	--app-blur: 8px;
-	--app-margin: 15px;
+	--app-margin: 12px;
 	--app-radius: 8px; /*	-	*/
 	
 	--accent-hue: 156;
@@ -25,11 +25,11 @@
 	--accent-text-color: #000; /*	-	*/
 
 	--sidebar-color: rgba(0,0,0,0.8);
-	--main-content-color: rgba(0,0,0,0.5); /*	-	*/
+	--main-content-color: rgba(0,0,0,0.6); /*	-	*/
 
-	--message-color: rgba(0,0,0,0.1);
+	--message-color: rgba(0,0,0,0.2);
 	--message-radius: 8px;
-	--message-padding-top: 8px;
+	--message-padding-top: 0px;
 	--message-padding-side: 8px; /*	-	*/
 	
 	--reply-hue: 226;
