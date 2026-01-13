@@ -53,7 +53,7 @@ body {
 
     /* background image options */
     --background-image: on; /* off: no background image, on: enable background image (must set url variable below) */
-    --background-image-url: url('https://github.com/KobaZn/discord/blob/main/e/dcdp9fr-fd0641be-ef13-44c2-80da-bf4dab61fb32.png?raw=true'); /* url of the background image */
+    --background-image-url: url('https://external-preview.redd.it/qEf5BDccDz80dnMsB-YgOjhVEwlsuQFD_WICyMmImak.jpg?auto=webp&s=a04a2da2236533541f048ed01b39ecf75da4ec97'); /* url of the background image */
 
     /* transparency/blur options */
     /* NOTE: TO USE TRANSPARENCY/BLUR, YOU MUST HAVE TRANSPARENT BG COLORS. FOR EXAMPLE: --bg-4: hsla(220, 15%, 10%, 0.7); */
